@@ -12,7 +12,10 @@ The analytics will guide the management in deciding which state is ideal for sta
 
 ### Dashboard 
 
-<img src="images/Designer%20(1).png" alt="Alt text" width="1000" height="600">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzE3NmJlZDYtNzIyZi00NDdkLWE0ZjItOTM4MWZlZDhmYTZjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true" target="_blank">
+  <img src="images/dashboard.png" alt="Alt text" width="800" height="600">
+</a>
+
 
 ## Data Collection:
 Sources: Data was gathered from multiple reliable sources, including the [Pariahana](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml), [EV Ready Dashboard](https://evreadyindia.org/ev-sales/), and additional datasets from Kaggle.
