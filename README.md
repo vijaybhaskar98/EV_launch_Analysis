@@ -10,6 +10,10 @@
 ### Scope:
 The analytics will guide the management in deciding which state is ideal for starting operations, based on various performance and market penetration parameters.
 
+### Dashboard 
+
+<img src="images/Designer%20(1).png" alt="Alt text" width="1000" height="600">
+
 ## Data Collection:
 Sources: Data was gathered from multiple reliable sources, including the [Pariahana](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml), [EV Ready Dashboard](https://evreadyindia.org/ev-sales/), and additional datasets from Kaggle.
 
@@ -30,6 +34,30 @@ Null values were cleaned up using Power Query, improving the dataset’s reliabi
 ## Analysis Techniques:
 The goal of the dashboard was to present insights that would help identify the most promising state for the EV launch. Key parameters, including total sales and EV penetration rates, were analyzed using trend lines and predictive techniques. The concept for identifying the ideal state is illustrated in the chart below.
 
-![Alt text](image-path)
+<p align="center">
+  <img src="images/Flochart.png" alt="Alt text">
+</p>
+
+### Tools: 
+Power BI for data visualization, Excel for minor modifications, and Python for major data transformations.
+
+## Key Findings:
+The analysis highlighted the top 5 states in terms of total vehicle and EV sales over the past 4 years.
+Predictive analysis helped forecast sales trends for the next 5 years, giving valuable insights into future market potential.
+
+## Recommendations:
+Based on the analysis, I recommended Karnataka and Maharashtra as the best states to launch the EV branch, considering their strong sales performance and market potential.
+
+## Challenges & Learnings:
+This project presented numerous challenges, but it was also a rich learning experience. I learned to:
+
+<p>Tackle complex data problems using AI tools and techniques.</p>
+<p>Leverage information from various sources effectively.</p>
+<p>Adapt AI to accelerate problem-solving and project completion.</p>
+
+
+## Conclusion:
+This project not only provided actionable insights for a successful EV launch in India but also helped me grow as a data analyst by navigating challenges and harnessing AI’s power to deliver a quality solution.
+
 
 
