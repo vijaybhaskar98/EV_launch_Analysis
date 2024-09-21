@@ -3,6 +3,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;I recently received a requirement from one of my clients, a leading UK-based automotive company, looking to expand into the Indian electric vehicle (EV) market. The objective was to provide data-driven insights to support their decision-making process for launching EV operations in India. Inspired by this project, I am now working on a similar initiative with an imaginary company named AtliQ Autmotive
 
+**Presentation:**  
+[https://youtu.be/nfkrAfSzDK0](https://youtu.be/nfkrAfSzDK0)
+
+**My Intro:**  
+[https://youtu.be/LUguC_I3f8I](https://youtu.be/LUguC_I3f8I)
+
 ## Project Overview :
 
 <h3>Objective:</h3> To analyze the EV environment in India over the last 4 years and provide strategic insights to help Atliq Automobiles identify the most suitable states for launching its EV branch.
